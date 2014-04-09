@@ -1,0 +1,3 @@
+[submodule "2048-voice"]
+	path = 2048-voice
+	url = https://github.com/yellowjello/2048-voice.git
